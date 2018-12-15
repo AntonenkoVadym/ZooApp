@@ -1,0 +1,21 @@
+E:\КПІ\ООП-2\Лаб2\ZooApp\ZooApp\bin\Debug\ZooApp.exe.config
+E:\КПІ\ООП-2\Лаб2\ZooApp\ZooApp\bin\Debug\ZooApp.exe
+E:\КПІ\ООП-2\Лаб2\ZooApp\ZooApp\bin\Debug\ZooApp.pdb
+E:\КПІ\ООП-2\Лаб2\ZooApp\ZooApp\obj\Debug\ZooApp.csprojAssemblyReference.cache
+E:\КПІ\ООП-2\Лаб2\ZooApp\ZooApp\obj\Debug\ZooApp.csproj.CoreCompileInputs.cache
+E:\КПІ\ООП-2\Лаб2\ZooApp\ZooApp\obj\Debug\ZooApp.exe
+E:\КПІ\ООП-2\Лаб2\ZooApp\ZooApp\obj\Debug\ZooApp.pdb
+E:\КПІ\V семестр\ООП-2\Лаб2\ZooApp\ZooApp\obj\Debug\ZooApp.csprojAssemblyReference.cache
+E:\КПІ\V семестр\ООП-2\Лаб2\ZooApp\ZooApp\obj\Debug\ZooApp.csproj.CoreCompileInputs.cache
+E:\КПІ\V семестр\ООП-2\Лаб2\ZooApp\ZooApp\obj\Debug\ZooApp.exe
+E:\КПІ\V семестр\ООП-2\Лаб2\ZooApp\ZooApp\obj\Debug\ZooApp.pdb
+E:\КПІ\V семестр\ООП-2\Лаб2\ZooApp\ZooApp\bin\Debug\ZooApp.exe.config
+E:\КПІ\V семестр\ООП-2\Лаб2\ZooApp\ZooApp\bin\Debug\ZooApp.exe
+E:\КПІ\V семестр\ООП-2\Лаб2\ZooApp\ZooApp\bin\Debug\ZooApp.pdb
+D:\КПІ\V семестр\ООП-2\Лаб2\ZooApp\ZooApp\bin\Debug\ZooApp.exe.config
+D:\КПІ\V семестр\ООП-2\Лаб2\ZooApp\ZooApp\bin\Debug\ZooApp.exe
+D:\КПІ\V семестр\ООП-2\Лаб2\ZooApp\ZooApp\bin\Debug\ZooApp.pdb
+D:\КПІ\V семестр\ООП-2\Лаб2\ZooApp\ZooApp\obj\Debug\ZooApp.csprojAssemblyReference.cache
+D:\КПІ\V семестр\ООП-2\Лаб2\ZooApp\ZooApp\obj\Debug\ZooApp.csproj.CoreCompileInputs.cache
+D:\КПІ\V семестр\ООП-2\Лаб2\ZooApp\ZooApp\obj\Debug\ZooApp.exe
+D:\КПІ\V семестр\ООП-2\Лаб2\ZooApp\ZooApp\obj\Debug\ZooApp.pdb

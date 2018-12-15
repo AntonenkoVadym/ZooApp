@@ -1,0 +1,17 @@
+D:\КПІ\V семестр\ООП-2\Лаб2\ZooApp\ZooApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\КПІ\V семестр\ООП-2\Лаб2\ZooApp\ZooApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\КПІ\V семестр\ООП-2\Лаб2\ZooApp\ZooApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\КПІ\V семестр\ООП-2\Лаб2\ZooApp\ZooApp.Tests\bin\Debug\ZooApp.Tests.dll
+D:\КПІ\V семестр\ООП-2\Лаб2\ZooApp\ZooApp.Tests\bin\Debug\ZooApp.Tests.pdb
+D:\КПІ\V семестр\ООП-2\Лаб2\ZooApp\ZooApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\КПІ\V семестр\ООП-2\Лаб2\ZooApp\ZooApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\КПІ\V семестр\ООП-2\Лаб2\ZooApp\ZooApp.Tests\bin\Debug\ZooApp.exe
+D:\КПІ\V семестр\ООП-2\Лаб2\ZooApp\ZooApp.Tests\bin\Debug\ZooApp.pdb
+D:\КПІ\V семестр\ООП-2\Лаб2\ZooApp\ZooApp.Tests\bin\Debug\ZooApp.exe.config
+D:\КПІ\V семестр\ООП-2\Лаб2\ZooApp\ZooApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\КПІ\V семестр\ООП-2\Лаб2\ZooApp\ZooApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\КПІ\V семестр\ООП-2\Лаб2\ZooApp\ZooApp.Tests\obj\Debug\ZooApp.Tests.csprojAssemblyReference.cache
+D:\КПІ\V семестр\ООП-2\Лаб2\ZooApp\ZooApp.Tests\obj\Debug\ZooApp.Tests.csproj.CoreCompileInputs.cache
+D:\КПІ\V семестр\ООП-2\Лаб2\ZooApp\ZooApp.Tests\obj\Debug\ZooApp.Tests.csproj.CopyComplete
+D:\КПІ\V семестр\ООП-2\Лаб2\ZooApp\ZooApp.Tests\obj\Debug\ZooApp.Tests.dll
+D:\КПІ\V семестр\ООП-2\Лаб2\ZooApp\ZooApp.Tests\obj\Debug\ZooApp.Tests.pdb
